@@ -1,0 +1,56 @@
+[
+  {
+    "make": "Honda", "model": "Accord", "generation": "VIII (CU/CW) Facelift",
+    "yearFrom": 2011, "yearTo": 2015,
+    "bodyType": "sedan",
+    "pcd": "5x114.3", "hubBore": 64.1,
+    "sourceUrl": "https://koleso.ee/en/valuveljed/honda/accord/1914/cu-cw-2011-2015/3711",
+    "trims": [
+      { "name": "2.0i (115 kW / 154 hp)", "trimLevels": [],
+        "sizes": [
+          { "diameter": 16, "width": 6.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "205/60R16 92V" },
+          { "diameter": 17, "width": 7.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "225/50R17 98V" },
+          { "diameter": 17, "width": 6.5, "et": 55, "etMin": null, "etMax": null, "oem": false, "tire": "205/55R17 91V" },
+          { "diameter": 18, "width": 7, "et": 50, "etMin": null, "etMax": null, "oem": false, "tire": "215/45R18 93V" },
+          { "diameter": 18, "width": 7.5, "et": 55, "etMin": null, "etMax": null, "oem": false, "tire": "225/45ZR18 93W" },
+          { "diameter": 19, "width": 7.5, "et": 50, "etMin": null, "etMax": null, "oem": false, "tire": "225/40ZR19 93W" }
+        ] },
+      { "name": "2.2 i-DTEC (132 kW / 177 hp)", "trimLevels": [],
+        "sizes": [
+          { "diameter": 17, "width": 7.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "225/50R17 95V" },
+          { "diameter": 18, "width": 8, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "235/45R18 95V" },
+          { "diameter": 18, "width": 7.5, "et": 55, "etMin": null, "etMax": null, "oem": false, "tire": "225/45R18 95V" },
+          { "diameter": 19, "width": 8.5, "et": 50, "etMin": null, "etMax": null, "oem": false, "tire": "245/35ZR19 95W" },
+          { "diameter": 20, "width": 9, "et": 45, "etMin": null, "etMax": null, "oem": false, "tire": "255/30ZR20 93Y" }
+        ] },
+      { "name": "2.2 i-DTEC (110 kW / 148 hp)", "trimLevels": [],
+        "sizes": [
+          { "diameter": 16, "width": 6.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "215/60R16 95V" },
+          { "diameter": 17, "width": 7.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "225/50R17 98V" },
+          { "diameter": 18, "width": 7.5, "et": 55, "etMin": null, "etMax": null, "oem": false, "tire": "225/45ZR18 93W" },
+          { "diameter": 19, "width": 8, "et": 45, "etMin": null, "etMax": null, "oem": false, "tire": "225/40ZR19 93W" }
+        ] },
+      { "name": "2.4i (148 kW / 198 hp)", "trimLevels": [],
+        "sizes": [
+          { "diameter": 17, "width": 7.5, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "225/50R17 95V" },
+          { "diameter": 18, "width": 8, "et": 55, "etMin": 53, "etMax": 57, "oem": true, "tire": "235/45ZR18 95W" },
+          { "diameter": 18, "width": 7.5, "et": 55, "etMin": null, "etMax": null, "oem": false, "tire": "225/45R18 93V" },
+          { "diameter": 19, "width": 8.5, "et": 45, "etMin": null, "etMax": null, "oem": false, "tire": "245/35ZR19 93W" }
+        ] }
+    ]
+  },
+  {
+    "make": "Honda", "model": "CR-V", "generation": "VI (RS)",
+    "yearFrom": 2022, "yearTo": 2026,
+    "bodyType": "suv",
+    "pcd": "5x120", "hubBore": 64.1,
+    "sourceUrl": "https://koleso.ee/en/valuveljed/honda/cr-v/1924/rs-2022-now/3775",
+    "trims": [
+      { "name": "2.0 e:HEV (152 kW / 204 hp)", "trimLevels": ["Sport Hybrid", "Sport Touring Hybrid"],
+        "sizes": [
+          { "diameter": 18, "width": 7.5, "et": 40, "etMin": 38, "etMax": 42, "oem": true, "tire": "235/60R18 103H" },
+          { "diameter": 19, "width": 7.5, "et": 40, "etMin": 38, "etMax": 42, "oem": true, "tire": "235/55ZR19 101Y" }
+        ] }
+    ]
+  }
+]
